@@ -3,7 +3,7 @@
 # Challenge 3-Password generator
 
 # User Story
-![image](https:g//user-images.githubusercontent.com/115849626/202934611-4180b724-14ed-4995-b757-b72aa53c565a.png)
+![image](https://user-images.githubusercontent.com/115849626/204102511-6c10a1ed-5e8b-4ea9-adf2-0b909ddc3114.png)
 
 # Acceptance Criteria
 ![image](https://user-images.githubusercontent.com/115849626/202934606-b42cf3b5-c642-4cb7-91a9-9f05f3519edf.png)
